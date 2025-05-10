@@ -29,11 +29,17 @@ It uses **Amadeus API** for flight data and **Google Sheets** (via Sheety API) a
 ## 📁 Project Structure
 
 FlightScout/
+
 ├── main.py # Main script to run the app
+
 ├── data_manager.py # Gets and updates data from Google Sheet
+
 ├── flight_search.py # Connects to Amadeus API and searches flights
+
 ├── flight_data.py # Handles flight offer data
+
 ├── notification_manager.py # Sends messages if good prices are found
+
 ├── requirements.txt # List of needed Python packages
 
 ---
@@ -77,9 +83,13 @@ python main.py
 Create a `.env` file or export variables manually:
 
 AMADEUS_API_KEY=your_key
+
 AMADEUS_API_SECRET=your_secret
+
 SHEETY_TOKEN=your_token
+
 SHEETY_ENDPOINT=https://api.sheety.co/...
+
 ORIGIN_CITY_IATA=your_city
 
 
