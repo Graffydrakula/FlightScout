@@ -95,16 +95,6 @@ ORIGIN_CITY_IATA=your_city
 
 ❗ Never share your real `.env` file on GitHub.
 
----
-
-## 📦 Possible Improvements
-
-- Add error handling (for example, when API limit is reached)
-- Write tests with `unittest` or `pytest`
-- Use `logging` instead of `print()`
-- Add a web version (using Flask or FastAPI)
-
----
 
 ## 📧 Contact
 
@@ -112,13 +102,6 @@ If you have questions or want to collaborate, feel free to contact me:
 
 - 📧 Email: ivan.s.davydenko@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/ivan-s-davydenko](https://linkedin.com/in/ivan-s-davydenko)
-
----
-
-### ✅ Status
-
-📂 This project is finished and ready to be shown in portfolio.  
-🧠 Built with learning and growth in mind.
 
 
 
